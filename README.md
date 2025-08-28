@@ -22,7 +22,7 @@ I’m a Computer Science student majoring in Artificial Intelligence at the Nati
 Here are some of the technologies and tools I'm proficient in:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,ts,django,flask,express,mongodb,sql,sqlite,cpp,c,qt,figma,docker,react,nodejs,python,git" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,django,flask,express,mongodb,sql,sqlite,c++,c,qt,figma,docker,react,nodejs,python,git" alt="My Skills">
 </div>
 
 ---
