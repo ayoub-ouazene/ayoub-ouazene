@@ -9,7 +9,7 @@ I’m a Computer Science student majoring in Artificial Intelligence at the Nati
 
 ### About Me
 
-- 🌍 I'm based in Algiers, Algeria.
+- 🌍 I'm based in Tipasa, Algeria.
 - 🖥️ See my portfolio [here](https://ayoub-ouazene.vercel.app/).
 - ✉️ You can contact me at [ayoub.ouazene@ensia.edu.dz](mailto:ayoub.ouazene@ensia.edu.dz).
 - 🧠 I'm currently learning more about machine learning.
