@@ -2,7 +2,7 @@
 <h3 align="center">A dedicated web developer and AI Student from Algeria.</h3>
 
 <p align="center">
-I’m a Computer Science student majoring in Artificial Intelligence at the National High School of Artificial Intelligence (ENSIA), graduating in June 2029. My passion lies in AI and machine learning—exploring how intelligent systems can be built to solve real-world challenges. Alongside this, I enjoy developing dynamic and user-friendly web applications, gaining experience in both frontend and backend development. Through my academic journey and projects, I’ve been building a strong foundation in AI research, practical implementation, and software development.
+I’m a Computer Science student majoring in Artificial Intelligence at the National High School of Artificial Intelligence (ENSIA). My passion lies in AI and machine learning—exploring how intelligent systems can be built to solve real-world challenges. Alongside this, I enjoy developing dynamic and user-friendly web applications, gaining experience in both frontend and backend development. Through my academic journey and projects, I’ve been building a strong foundation in AI research, practical implementation, and software development.
 </p>
 
 ---
