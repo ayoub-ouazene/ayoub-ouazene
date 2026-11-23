@@ -42,9 +42,7 @@
 
 ---
 
-<div align="center">
-  <sub>Built by Ayoub Ouazene - Check out my full portfolio at <a href="https://ayoubouazene.vercel.app/">ayoubouazene.vercel.app</a></sub>
-</div>
+
 
 
 <p>
